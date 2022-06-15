@@ -1,5 +1,4 @@
-# myOpenBoard
-# Openboard Project [click here](https://real-time-openboard.herokuapp.com/)
+ # myOpenBoard Project [click here](https://cloneopenboard.herokuapp.com/)
 
 ### Project Desciption:
 The project comprises of basic openboard functionalities such as, writing, erasing, downloading the canvas, adding notes (with minimising it, closing it, dragging it around on the page), uploading the image (features same as of notes), undo and redo actions. <br>
@@ -36,7 +35,7 @@ This real-time whiteboard provides the user with following features:
 - Real-time virtual environment for drawing and erasing.
 
 ### Run on your local machine:
-Replace `https://real-time-openboard.herokuapp.com/` with `http://localhost:3000/` in `index.html`file. <br>
+Replace `https://cloneopenboard.herokuapp.com/` with `http://localhost:3000/` in `index.html`file. <br>
 Open the folder in VS code. Open terminal and write these commands: <br>
 ```
 npm init
